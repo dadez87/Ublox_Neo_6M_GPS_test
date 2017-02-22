@@ -7,7 +7,7 @@ This project interfaces Arduino Uno/Nano with Ublox Neo 6M GPS module, using Ser
 
 // Website: www.monocilindro.com (please check in "Electronics" category)
 
-// 22 February 2016
+// 22 February 2017
 
 Arduino RX = pin 2 (connect to Ublox Neo 6M TX)
 
